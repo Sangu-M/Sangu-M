@@ -23,7 +23,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BB86FC,100:03DAC6&height=3" />
 </p>
 
-## MCA Graduate • Python Developer  • DSA Practitioner
+## MCA Graduate • Python Developer • AI/ML Enthusiast • DSA Practitioner
 
 > **Building practical solutions with Python, AI/ML, and Full-Stack technologies — one project and one problem at a time.**
 
